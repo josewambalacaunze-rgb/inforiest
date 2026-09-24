@@ -1,0 +1,6 @@
+{
+  "name": "INFOR IEST",
+  "description": "INFOR IEST – Comércio e Serviços, LDA. | Tecnologia que Resolve • Inovação que Transforma",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
